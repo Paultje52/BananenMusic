@@ -1,0 +1,21 @@
+{
+  "name": "bananenmusic",
+  "version": "1.0.0",
+  "description": "Dew music bot van de BananenBot",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^4.0.0",
+    "json-config-store": "0.0.1",
+    "opusscript": "^0.0.6",
+    "request": "^2.87.0",
+    "ytdl-core": "^0.20.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo No test command!"
+  },
+  "author": "©BananenBot 2017-2018 - All rights saved",
+  "license": "ISC"
+}
