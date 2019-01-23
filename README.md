@@ -1,7 +1,7 @@
 # BananenMusic
 Dé muziek bot
 
-**Let op:** De BananenMusic bot wordt NIET meer bij gewerkt, ook NIET voor bugs!
+**Let op:** De BananenMusic bot wordt NIET meer bij gewerkt, alleen nog voor grote bugs!
 
 ## Installatie
 ### Stap 1
@@ -14,4 +14,9 @@ Krijg een discord bot token op [de discord developers portal](https://discordapp
 ### Stap 4
 Krijg een YouTube Data API V3 token op [de google cloud portal](https://console.cloud.google.com/) en vul de api key in bij `bot.js` regel 13.
 ### Stap 5
+Download en installeer [ffmpeg](https://www.ffmpeg.org/)
+### Stap 6
 Run de bot met `node bot.js` en veel luisterplezier!
+
+_Help:_ `m!help`
+_Settings (per server):_ `m!settings`
