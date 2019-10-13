@@ -1,7 +1,7 @@
 # BananenMusic
 Dé muziek bot
 
-**Let op:** De BananenMusic bot wordt NIET meer bij gewerkt, alleen nog voor grote bugs!
+**Let op:** De BananenMusic bot wordt NIET meer bij gewerkt, en er wordt ook geen support voor gegeven!
 
 ## Installatie
 ### Stap 1
