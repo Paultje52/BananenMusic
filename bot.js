@@ -1,6 +1,5 @@
-//Packages ** npm i -s discord.js opusscript ffmpeg-binaries ffmpeg ytdl-core request json-config-store **
+//Packages ** npm i -s discord.js opusscript ffmpeg ytdl-core request json-config-store **
 const Discord = require("discord.js");
-const ffmpeg_bin = require("ffmpeg-binaries");
 const ffmpeg = require("ffmpeg");
 const ytdl = require("ytdl-core");
 const request = require("request");
